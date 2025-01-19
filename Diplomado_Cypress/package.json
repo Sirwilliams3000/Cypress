@@ -1,0 +1,22 @@
+{
+  "name": "diplomado_cypress",
+  "version": "1.0.0",
+  "description": "E2E Framework Testing Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cy:open": "cypress open"
+  },
+  "keywords": [
+    "e2e",
+    "automation",
+    "framework",
+    "Cypress"
+  ],
+  "author": "William Machuca",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^14.0.0"
+  },
+  "devDependencies": {}
+}
